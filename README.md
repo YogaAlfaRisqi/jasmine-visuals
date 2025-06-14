@@ -1,12 +1,39 @@
-# React + Vite
+# 📸 Jasmine Visuals – Personal Photography Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website portofolio pribadi untuk Jasmine Aulia, seorang fotografer pernikahan dan potret keluarga yang berbasis di Bandung, Indonesia. Website ini dibuat untuk menampilkan hasil karya terbaik, memperkenalkan profil Jasmine, serta mempermudah calon klien menghubunginya.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+[🔗 jasminevisuals.com](https://jasminevisuals.com) *(Coming Soon)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 👤 Klien
+- **Nama:** Jasmine Aulia  
+- **Profesi:** Fotografer Pernikahan & Keluarga  
+- **Lokasi:** Bandung, Indonesia  
+- **Tujuan:** Website portofolio sederhana untuk memamerkan hasil karya, profil, dan kontak.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Fitur Utama
+- 💼 Halaman Portofolio dengan galeri foto berkualitas tinggi
+- 🙋 Tentang Jasmine (profil, pengalaman, dan filosofi kerja)
+- 📞 Formulir kontak langsung & informasi media sosial
+- 📱 Responsif di semua ukuran layar
+- 🎨 Desain elegan, minimalis, dan mudah dinavigasi
+- 🌙 Dark Mode (opsional)
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+| Frontend        | Tools & Frameworks                       |
+|-----------------|------------------------------------------|
+| React.js        | Library utama untuk membangun UI        |
+| Tailwind CSS    | Utility-first CSS framework             |
+| ShadCN UI       | Komponen UI modern berbasis Radix       |
+| React Router    | Routing antar halaman                   |
+| Vite            | Bundler cepat dan ringan                |
+
+> 💡 Desain diimplementasikan berdasarkan prinsip clean design & mobile-first approach.
+
